@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Template on bugaway</title><link>https://chendarling.github.io/tags/template/</link><description>Recent content in Template on bugaway</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 18 Mar 2025 05:00:00 +0000</lastBuildDate><atom:link href="https://chendarling.github.io/tags/template/index.xml" rel="self" type="application/rss+xml"/><item><title>如何在该网站中撰写文章-模板🤔</title><link>https://chendarling.github.io/blog/post-template/</link><pubDate>Tue, 18 Mar 2025 05:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-template/</guid><description>&lt;h2 id="正文内容">正文内容&lt;/h2>
 &lt;p>文章形式是基于&lt;strong>MarkDown&lt;/strong>格式的，在&lt;strong>blog&lt;/strong>目录下创建&lt;strong>md&lt;/strong>格式文件即可，文件命名无要求。格式参照该文章源文件格式即可。&lt;/p>
+&lt;p>参考：&lt;a href="https://jianzhnie.github.io/post/hugo_site/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>如何使用Hugo搭建博客并发布&lt;/a>&lt;/p>
 &lt;h2 id="elements">Elements&lt;/h2>
 &lt;!-- 下面这个toc是目录-->
 &lt;!-- 
