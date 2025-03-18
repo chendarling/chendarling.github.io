@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>算法小炒 on bugaway</title>
+    <link>http://localhost:1313/categories/%E7%AE%97%E6%B3%95%E5%B0%8F%E7%82%92/</link>
+    <description>Recent content in 算法小炒 on bugaway</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Mar 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E7%AE%97%E6%B3%95%E5%B0%8F%E7%82%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUGAWAY算法小抄-树状数组</title>
+      <link>http://localhost:1313/blog/post-alg-tree_arr/</link>
+      <pubDate>Tue, 18 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-alg-tree_arr/</guid>
+      <description>&lt;h2 id=&#34;什么是树状数组&#34;&gt;什么是树状数组？&lt;/h2&gt;&#xA;&lt;p&gt;树状数组是支持&lt;strong&gt;单点修改&lt;/strong&gt;和&lt;strong&gt;区间查询&lt;/strong&gt;的、代码量小的数据结构。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;事实上，树状数组能解决的问题是线段树（一棵二叉树，每个节点表示一个区间，并存储该区间的一些相关信息。线段树可以高效地进行区间查询和区间更新操作。不是本文重点）能解决的问题的子集：树状数组能做的，线段树一定能做；线段树能做的，树状数组不一定可以。然而，树状数组的代码要远比线段树短，时间效率常数也更小，因此仍有学习价值。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;有时，在差分数组和辅助数组的帮助下，树状数组还可解决更强的&lt;strong&gt;区间加单点值&lt;/strong&gt;和&lt;strong&gt;区间加区间和&lt;/strong&gt;问题。&lt;/p&gt;&#xA;&lt;p&gt;举个栗子🌰，想知道a[1,&amp;hellip;,7]的前缀和，怎么做？&lt;/p&gt;&#xA;&lt;p&gt;一种方法就是将所有数都加起来。但如果已知三个数 A，B，C，A=a[1,&amp;hellip;,4]，B=a[5,&amp;hellip;,6]，C=a[7,&amp;hellip;,7]。求和只需要 A + B + C 。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
