@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>算法小抄 on bugaway</title><link>https://chendarling.github.io/tags/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%8A%84/</link><description>Recent content in 算法小抄 on bugaway</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chendarling.github.io/tags/%E7%AE%97%E6%B3%95%E5%B0%8F%E6%8A%84/index.xml" rel="self" type="application/rss+xml"/><item><title>BUGAWAY算法小抄-差分数组</title><link>https://chendarling.github.io/blog/post-alg-diff_arr/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-alg-diff_arr/</guid><description>&lt;h2 id="什么是差分数组">什么是差分数组？&lt;/h2>
-&lt;p>&lt;strong>差分数组的思想&lt;/strong>是通过对原始数组进行处理，得到一个新的数组（差分数组），利用该数组来高效地进行&lt;strong>区间更新&lt;/strong>操作。具体来说，差分数组记录的是相邻元素之间的差值，而不是原始数组的元素本身。&lt;/p></description></item><item><title>BUGAWAY算法小抄-树状数组</title><link>https://chendarling.github.io/blog/post-alg-tree_arr/</link><pubDate>Tue, 18 Mar 2025 05:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-alg-tree_arr/</guid><description>&lt;h2 id="什么是树状数组">什么是树状数组？&lt;/h2>
+&lt;p>&lt;strong>差分数组的思想&lt;/strong>是通过对原始数组进行处理，得到一个新的数组（差分数组），利用该数组来高效地进行&lt;strong>区间更新&lt;/strong>操作。具体来说，差分数组记录的是相邻元素之间的差值，而不是原始数组的元素本身。&lt;/p></description></item><item><title>BUGAWAY算法小抄-时间开销为O(k^n)的一类动态规划问题</title><link>https://chendarling.github.io/blog/post-dp-1/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-dp-1/</guid><description>&lt;h2 id="131-分割回文串">&lt;a href="https://leetcode.cn/problems/palindrome-partitioning/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>131. 分割回文串&lt;/a>&lt;/h2>
+&lt;p>给你一个字符串 &lt;code>s&lt;/code>，请你将 &lt;code>s&lt;/code> 分割成一些子串，使每个子串都是 &lt;strong>回文串&lt;/strong>。返回 &lt;code>s&lt;/code> 所有可能的分割方案。&lt;/p></description></item><item><title>BUGAWAY算法小抄-树状数组</title><link>https://chendarling.github.io/blog/post-alg-tree_arr/</link><pubDate>Tue, 18 Mar 2025 05:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-alg-tree_arr/</guid><description>&lt;h2 id="什么是树状数组">什么是树状数组？&lt;/h2>
 &lt;p>树状数组是支持&lt;strong>单点修改&lt;/strong>和&lt;strong>区间查询&lt;/strong>的、代码量小的数据结构。&lt;/p></description></item></channel></rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>动态规划 on bugaway</title><link>https://chendarling.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link><description>Recent content in 动态规划 on bugaway</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://chendarling.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/index.xml" rel="self" type="application/rss+xml"/><item><title>BUGAWAY算法小抄-时间开销为O(k^n)的一类动态规划问题</title><link>https://chendarling.github.io/blog/post-dp-1/</link><pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate><guid>https://chendarling.github.io/blog/post-dp-1/</guid><description>&lt;h2 id="131-分割回文串">&lt;a href="https://leetcode.cn/problems/palindrome-partitioning/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>131. 分割回文串&lt;/a>&lt;/h2>
+&lt;p>给你一个字符串 &lt;code>s&lt;/code>，请你将 &lt;code>s&lt;/code> 分割成一些子串，使每个子串都是 &lt;strong>回文串&lt;/strong>。返回 &lt;code>s&lt;/code> 所有可能的分割方案。&lt;/p></description></item></channel></rss>
